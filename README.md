@@ -1,4 +1,4 @@
-# Read me
+# README
 # 🏗️ Data Warehousing Fundamentals
 
 ## 📌 Course Overview
